@@ -1,1 +1,2 @@
 # githubttest
+make -f <makefile>
